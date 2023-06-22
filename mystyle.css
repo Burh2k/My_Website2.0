@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Merriweather', serif;
+}
+.Me{
+    width: 200px;
+}
+.human{
+    width: 30%;
+    float: left;
+    margin-right: 25px;
+}
+.top-cloud,.bottom-cloud{
+    width: 100px;
+}
+img{
+    width: 70%;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.bottom-cloud {
+    position:absolute;
+    bottom: 300px;
+    left: 300px;
+}
+.top-cloud {
+    position:absolute;
+    top: 50px;
+    right: 300px;
+}
+.Intro {
+    background-color: aquamarine;
+    position: relative;
+    padding-top: 100px;
+}
+.profile{
+    margin: 100px 0;
+}
